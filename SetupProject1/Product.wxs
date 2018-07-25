@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi"><?define MoBrowser_TargetDir=$(var.MoBrowser.TargetDir)?>
+	<Product Id="*" Name="MoBrowser" Language="1033" Version="1.0.0.0" Manufacturer="Xtra" UpgradeCode="1426ec16-a630-47ba-a84c-d11bcd289346">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="MoBrowser" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+      <ComponentRef Id="ApplicationShortcutDesktop" />
+      <ComponentRef Id="ApplicationShortcut" />
+    
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="DesktopFolder" Name="Desktop">
+        <Component Id="ApplicationShortcutDesktop" Guid="*">
+            <Shortcut Id="ApplicationDesktopShortcut"
+                Name="MoBrowser"
+                Description="Quickly remember your last viewed files"
+                Target="[INSTALLFOLDER]MoBrowser.exe"
+                WorkingDirectory="INSTALLFOLDER"/>
+            <RemoveFolder Id="DesktopFolder" On="uninstall"/>
+            <RegistryValue
+                Root="HKCU"
+                Key="Software/MoBrowser"
+                Name="installed"
+                Type="integer"
+                Value="1"
+                KeyPath="yes"/>
+        </Component>
+    </Directory>
+      
+      
+          <Directory Id="ProgramMenuFolder" Name="StartMenu">
+        <Component Id="ApplicationShortcut" Guid="E89A9588-88FB-404E-9A31-D9B2ECDC67FB">
+            <Shortcut Id="ApplicationStartMenuShortcut"
+                Name="MoBrowser"
+                Description="Quickly remember your last viewed files"
+                Target="[INSTALLFOLDER]MoBrowser.exe"
+                WorkingDirectory="INSTALLFOLDER"/>
+            <RemoveFolder Id="MenuFolder" On="uninstall"/>
+            <RegistryValue
+                Root="HKCU"
+                Key="Software/MoBrowser"
+                Name="installed"
+                Type="integer"
+                Value="1"
+                KeyPath="yes"/>
+        </Component>
+    </Directory>
+        
+     
+        
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="MoBrowser" />
+     
+        </Directory>
+			</Directory>
+	
+  
+
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+			<!-- <Component Id="ProductComponent"> -->
+				<!-- TODO: Insert files, registry keys, and other resources here. -->
+			<!-- </Component> -->
+			<Component Id="MoBrowser.exe" Guid="676f75de-3360-4957-a902-2d1a36b6a61a">
+			  <File Id="MoBrowser.exe" Name="MoBrowser.exe" Source="$(var.MoBrowser_TargetDir)MoBrowser.exe" />
+			</Component>
+			<Component Id="MoBrowser.exe.config" Guid="1d9e5d59-7e8b-456a-98aa-1a836ba524a1">
+			  <File Id="MoBrowser.exe.config" Name="MoBrowser.exe.config" Source="$(var.MoBrowser_TargetDir)MoBrowser.exe.config" />
+			</Component>
+			<Component Id="EntityFramework.dll" Guid="9b2e8da7-62b6-4acc-b0d5-f85fcf7ff2e6">
+			  <File Id="EntityFramework.dll" Name="EntityFramework.dll" Source="$(var.MoBrowser_TargetDir)EntityFramework.dll" />
+			</Component>
+			<Component Id="EntityFramework.SqlServer.dll" Guid="44d68968-c169-4ba4-a49f-b65bca8531ad">
+			  <File Id="EntityFramework.SqlServer.dll" Name="EntityFramework.SqlServer.dll" Source="$(var.MoBrowser_TargetDir)EntityFramework.SqlServer.dll" />
+			</Component>
+			<Component Id="SQLite.NET.dll" Guid="6f80d7fc-8f7a-4682-923c-08029a2acea0">
+			  <File Id="SQLite.NET.dll" Name="SQLite.NET.dll" Source="$(var.MoBrowser_TargetDir)SQLite.NET.dll" />
+			</Component>
+			<Component Id="System.Data.SQLite.dll" Guid="6a8f95ff-21fe-40da-9924-2b7bdf9ae772">
+			  <File Id="System.Data.SQLite.dll" Name="System.Data.SQLite.dll" Source="$(var.MoBrowser_TargetDir)System.Data.SQLite.dll" />
+			</Component>
+			<Component Id="System.Data.SQLite.EF6.dll" Guid="a212111d-e9ad-4db8-9c56-3e302c932ae8">
+			  <File Id="System.Data.SQLite.EF6.dll" Name="System.Data.SQLite.EF6.dll" Source="$(var.MoBrowser_TargetDir)System.Data.SQLite.EF6.dll" />
+			</Component>
+			<Component Id="System.Data.SQLite.Linq.dll" Guid="2e773734-c48d-4787-978c-7b419d56f245">
+			  <File Id="System.Data.SQLite.Linq.dll" Name="System.Data.SQLite.Linq.dll" Source="$(var.MoBrowser_TargetDir)System.Data.SQLite.Linq.dll" />
+			</Component>
+  
+   
+  
+
+		</ComponentGroup>
+	</Fragment>
+</Wix>
