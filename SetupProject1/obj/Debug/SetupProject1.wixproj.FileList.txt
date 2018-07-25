@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\SetupProject1\bin\Debug\MoBrowser Installer.wixpdb
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\SetupProject1\bin\Debug\MoBrowser Installer.msi
+obj\Debug\SetupProject1.wixproj.BindContentsFileListnull.txt
+obj\Debug\SetupProject1.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SetupProject1.wixproj.BindBuiltOutputsFileListnull.txt

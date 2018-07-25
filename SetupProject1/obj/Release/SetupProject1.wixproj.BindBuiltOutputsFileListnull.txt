@@ -1,0 +1,2 @@
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\SetupProject1\bin\Release\MoBrowser Installer.msi
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\SetupProject1\bin\Release\MoBrowser Installer.wixpdb

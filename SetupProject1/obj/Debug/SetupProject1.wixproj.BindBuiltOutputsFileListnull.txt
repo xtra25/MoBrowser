@@ -1,0 +1,2 @@
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\SetupProject1\bin\Debug\MoBrowser Installer.msi
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\SetupProject1\bin\Debug\MoBrowser Installer.wixpdb

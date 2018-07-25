@@ -1,0 +1,8 @@
+obj\Release\Product.wixobj
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\SetupProject1\bin\Release\MoBrowser Installer.msi
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\SetupProject1\bin\Release\MoBrowser Installer.wixpdb
+obj\Release\SetupProject1.wixproj.BindContentsFileListnull.txt
+obj\Release\SetupProject1.wixproj.BindOutputsFileListnull.txt
+obj\Release\SetupProject1.wixproj.BindBuiltOutputsFileListnull.txt
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\SetupProject1\bin\Release\MoBrowser Installer.msi
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\SetupProject1\bin\Release\MoBrowser Installer.wixpdb

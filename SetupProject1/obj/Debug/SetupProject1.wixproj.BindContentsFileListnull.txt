@@ -1,0 +1,8 @@
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe.config
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLite.NET.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll

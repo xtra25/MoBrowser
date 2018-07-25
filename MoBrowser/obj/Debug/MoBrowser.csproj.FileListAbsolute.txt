@@ -1,0 +1,46 @@
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe.config
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe.manifest
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.application
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.pdb
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.csprojAssemblyReference.cache
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.Properties.Resources.resources
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.csproj.GenerateResource.cache
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.csproj.CoreCompileInputs.cache
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.exe.manifest
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.application
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.csproj.CopyComplete
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.exe
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.pdb
+C:\Users\xtra\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLite.NET.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe.config
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe.manifest
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.application
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.exe
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MoBrowser.pdb
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLite.NET.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.Properties.Resources.resources
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.csproj.GenerateResource.Cache
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.exe.manifest
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.application
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.exe
+C:\Users\xtra\Desktop\VS2017 Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MoBrowser.pdb

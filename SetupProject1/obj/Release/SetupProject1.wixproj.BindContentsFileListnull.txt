@@ -1,0 +1,8 @@
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\EntityFramework.dll
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\MoBrowser.exe
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\MoBrowser.exe.config
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\SQLite.NET.dll
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\System.Data.SQLite.dll
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\xtra\Desktop\Mobrowser\VS2017 Projects\MoBrowser\MoBrowser\bin\Release\System.Data.SQLite.Linq.dll
